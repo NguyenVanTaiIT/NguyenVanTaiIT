@@ -1,54 +1,52 @@
-# 👋 Hi, I'm Tai
-
-💻 **Frontend Developer** | 🌐 Web Enthusiast | 📊 Data-driven Coder  
-
----
-
-## 🚀 About Me
-- 🎯 Passionate about building **modern, responsive web applications**.
-- 💡 Skilled in **JavaScript, ReactJS, Node.js, MongoDB**.
-- 🌱 Currently learning **Cloud services (AWS)** & **AI integration**.
-- 🎨 Focused on delivering **clean UI** and **smooth UX**.
+<h1 align="center">Hi 👋, I'm Nguyen Van Tai</h1>
+<h3 align="center">A passionate Frontend Developer with experience in JavaScript, Node.js, and MongoDB</h3>
 
 ---
 
-## 🛠 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-1572B6?logo=css3&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
+### 💡 About Me
+- 🎯 I specialize in **React.js** with **CSS Modules** for clean and maintainable UI.
+- 🚀 Experienced with **Node.js** + **MongoDB** for backend development.
+- ☁️ Hands-on with **AWS Services** such as S3, X-Ray, CloudWatch, and Secrets Manager.
+- 📚 Always learning new technologies and improving coding best practices.
+- 💬 Ask me about **JavaScript, React, Node.js**.
 
 ---
 
-## 📂 Featured Projects
-- 🛒 **Laptop Store (AWS E-Commerce)** – Full-stack app with ReactJS + Node.js + MongoDB + AWS S3/X-Ray/CloudWatch.
-- 📅 **Life Management Web** – Manage schedules, expenses, and resources efficiently.
+### 🛠️ Tech Stack
+**Frontend:** HTML, CSS Modules, JavaScript, React.js, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools & Platforms:** Git, AWS (S3, X-Ray, CloudWatch), Postman, Visual Studio Code
 
 ---
 
-## 📊 GitHub Stats
-![Tai's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenVanTaiIT&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTaiIT&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats & Languages
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=NguyenVanTaiIT&show_icons=true&theme=tokyonight" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+#### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenVanTaiIT&layout=compact&theme=tokyonight" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=fff)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:your-email@gmail.com)
+### 🌟 Highlight Projects
+- [**Xray-store**](https://github.com/NguyenVanTaiIT/Xray-store) – E-commerce laptop store with AWS integration.
+- [**Room Life Management**](#) – Website for managing rental room expenses and schedules.
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it’s bad."*
+### 📫 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
