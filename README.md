@@ -103,7 +103,7 @@
  </div>
  <p align="center">
    <em>Website for managing rental room expenses</em><br>
-   <strong>Tech:</strong> JavaScript, CSS Modules, Node.js
+   <strong>Tech:</strong> Reactjs, CSS Modules, Node.js
  </p>
 </td>
    </tr>
