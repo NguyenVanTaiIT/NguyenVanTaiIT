@@ -45,46 +45,36 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>🎨 Frontend</h3>
-        <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        </p>
-      </td>
-      <td align="center" width="50%">
-        <h3>⚙️ Backend & Database</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+      <td align="center" width="33%">
+  <h3>🎨 Frontend</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react" width="80px" alt="React"/><br><br>
+  <img src="https://skillicons.dev/icons?i=html,js,bootstrap,ts" alt="HTML JS Bootstrap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_CSS_Logo.svg" width="48px" alt="CSS"/>
+  <br><br>
+</td>
+      <td align="center" width="33%">
+  <h3>⚙️ Backend & Database</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="80px" alt="Node.js"/><br><br>
+  <img src="https://skillicons.dev/icons?i=express,mongodb" alt="Express MongoDB"/>
+  <br><br>
+</td>
+      <td align="center" width="33%">
         <h3>☁️ Cloud & Tools</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-          <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-        </p>
+        <br>
+        <img src="https://skillicons.dev/icons?i=aws" width="80px" alt="AWS"/><br><br>
+        <img src="https://skillicons.dev/icons?i=git,vscode,postman" alt="Git VS Code Postman"/>
+        <br><br>
       </td>
     </tr>
   </table>
 </div>
 
----
+<div align="center">
+  <h3>🚀 Core Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,javascript,html,css,express,git,vscode,bootstrap,postman&perline=6" alt="Tech Stack"/>
+</div>
 
 ## 📊 GitHub Analytics
 
