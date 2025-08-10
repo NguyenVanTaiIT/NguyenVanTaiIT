@@ -95,15 +95,17 @@
        </p>
      </td>
      <td width="50%">
-       <h3 align="center">🏠 Room Life Management</h3>
-       <div align="center">
-         <img src="https://via.placeholder.com/400x200/FF6B6B/FFFFFF?text=Room+Life+Management" alt="Room Management" style="border-radius: 10px;" />
-       </div>
-       <p align="center">
-         <em>Website for managing rental room expenses</em><br>
-         <strong>Tech:</strong> JavaScript, CSS Modules, Node.js
-       </p>
-     </td>
+ <h3 align="center">🏠 Room Life Management</h3>
+ <div align="center">  
+   <a href="https://github.com/NguyenVanTaiIT/NNPTreact" target="_blank">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenVanTaiIT&repo=NNPTreact&theme=radical&hide_border=true" alt="NNPTreact" />
+   </a>
+ </div>
+ <p align="center">
+   <em>Website for managing rental room expenses</em><br>
+   <strong>Tech:</strong> JavaScript, CSS Modules, Node.js
+ </p>
+</td>
    </tr>
  </table>
 </div>
