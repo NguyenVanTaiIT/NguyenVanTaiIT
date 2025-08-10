@@ -30,7 +30,6 @@
 💬 **Ask me about:** JavaScript, React, Node.js, AWS
 
 🎮 **Fun fact:** I love debugging as much as I love coding!
-
       </td>
       <td width="40%" align="center">
         <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="100%" />
