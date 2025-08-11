@@ -40,6 +40,22 @@
 
 ---
 
+## 📚 Current Learning
+- **NestJS** for scalable backend development  
+- **Blender** for 3D product modeling and visualization  
+- Advanced **TypeScript** for type-safe applications  
+
+---
+
+## 💼 Open to Work
+- **Frontend Developer** (React.js / TypeScript)  
+- **Full Stack Developer** (MERN / AWS)  
+
+📍 Open to **Remote** or **On-site** opportunities in Vietnam 
+📧 Reach me at: **vtai7287@gmail.com**  
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
